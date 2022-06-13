@@ -2,4 +2,4 @@
 x = 12
 y = (x+1)%2
 #output value 1
-print(y)
+print(y+1)
