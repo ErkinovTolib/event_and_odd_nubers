@@ -7,4 +7,6 @@ y = var_int%10
 z = var_int//10%10
 x = var_int//100%10
 b = var_int//1000%10
-print(y,x)
+g=(y+1)%2
+f = (x+1)%2
+print(g+f)
